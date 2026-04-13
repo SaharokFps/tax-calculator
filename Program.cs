@@ -4,7 +4,7 @@ class TaxCalculator
 {
     static void Main()
     {
-        Console.WriteLine(""Калькулятор налогов v1.0"");
+        Console.WriteLine("Налоговый калькулятор v2.0");
         Console.Write("Введите доход: ");
         decimal income = decimal.Parse(Console.ReadLine());
 
